@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">hisasiburi2</string>
+    <string name="title">君に捧げる諺だぜ！</string>
+    <string name="pushbtn">ボタンを押してね！</string>
+    <string name="mei1">万事塞翁が馬</string>
+    <string name="mei2">少年老い易く学成り難し</string>
+    <string name="mei3">棚からぼたもち</string>
+    <string name="button">Button</string>
 </resources>
