@@ -1,1 +1,2 @@
-# hisasiburi-app2
+# hisasiburi-app
+ランダムにことわざを表示するAndroidアプリ
